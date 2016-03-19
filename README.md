@@ -12,7 +12,7 @@ src/ - All sourcecode for
 Dependencies
 ------------
 
-[RtMidi](https://github.com/thestk/rtmidi/): included in repository
+[RtMidi](https://github.com/thestk/rtmidi/): included in repository  
 [OpenAL](https://www.openal.org/): Install as system library
 
 Future Stuff
